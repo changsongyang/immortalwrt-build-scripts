@@ -49,7 +49,7 @@ function check_system() {
 		VERSION_PACKAGE="python2"
 		;;
 	"focal")
-		GCC_VERSION="9"
+		GCC_VERSION="10"
 		LLVM_VERSION="18"
 		UBUNTU_CODENAME="$VERSION_CODENAME"
 		VERSION_PACKAGE="python2"
